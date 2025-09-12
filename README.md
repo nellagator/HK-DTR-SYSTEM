@@ -1,2 +1,0 @@
-# HK-DTR-SYSTEM
-kuticoat
