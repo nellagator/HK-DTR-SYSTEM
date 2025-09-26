@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Duty Frame</title>
+<!--																										STUDENT FRAME 																											-->
+<!-- ====================================================================================================================== -->
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #e0e0e0; /* full light gray background */
+    }
+
+    /* Top green bar */
+    .navbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: #4CAF50;
+      padding: 8px 15px;
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .circle {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background-color: white;
+    }
+
+    .square {
+      width: 20px;
+      height: 14px;
+      background-color: #2d5c2d;
+    }
+
+    .login {
+      font-size: 14px;
+      color: white;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .login::before {
+      content: "👤"; /* person icon */
+      font-size: 16px;
+    }
+
+    /* Green content box */
+    .content {
+      background-color: #a5c8a5;
+      margin: 20px;
+      border-radius: 10px;
+      height: calc(100vh - 70px); /* fill rest of screen under navbar */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 16px;
+      text-align: center;
+    }
+  </style>
+	
+<!-- ===================================================================================================================== -->>
+
+</head>
+<body>
+  <!-- Top bar -->
+  <div class="navbar">
+    <div class="nav-left">
+      <div class="circle"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+    </div>
+    <div class="login">login</div>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+    Sorry...<br>
+    no assigned duty yet..
+  </div>
+</body>
+</html>
