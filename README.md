@@ -58,3 +58,12 @@ Depending on your role:
 **Backend**: PHP
 **Database**: MySQL
 **Server**: Apache (via XAMPP)
+
+
+## -> Team Members
+
+- **Barte, Allen Dave G.** [*nellagator*] — Project Leader / UX/UI Design / System Analyst / Technical Advisor / Documentation Lead
+- **[Agaton, Jemmer D.]** — Researcher / Design Contributor 
+- **[De Guzman‚ Reynald J.]** — Researcher / Contributor
+- **[Luacan, Giovanni Carlo C.]** —  Lead Developer / Database Designer / UX/UI Design
+- **[Sibayan, Shean Joaquin G.]** —  Documentation Assistant
