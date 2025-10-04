@@ -62,7 +62,7 @@ Depending on your role:
 
 ## -> Team Members
 
-- **Barte, Allen Dave G.** [*nellagator*] — Project Leader / UX/UI Design / System Analyst / Technical Advisor / Documentation Lead
+- **Barte, Allen Dave G.** [*nellagator*] — Project Leader / UX/UI Design / System Analyst / Technical Advisor / Documentation Lead / Co Developer
 - **[Agaton, Jemmer D.]** — Researcher / Design Contributor 
 - **[De Guzman‚ Reynald J.]** — Researcher / Contributor
 - **[Luacan, Giovanni Carlo C.]** —  Lead Developer / Database Designer / UX/UI Design
