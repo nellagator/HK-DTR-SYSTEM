@@ -31,7 +31,7 @@ git clone https://github.com/yourusername/HK-DTR-SYSTEM.git
 or download the htdocs FILE called (HKTESTING) and the (hk_dtr_system.sql) file
 
 # 2. Move project folder to htdocs
-C:\xampp\htdocs\HK-DTR-SYSTEM
+C:\xampp\htdocs\HKTESTING
 
 # 3. Start Apache and MySQL in XAMPP Control Panel
 
