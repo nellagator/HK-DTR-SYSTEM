@@ -21,13 +21,14 @@ This project was developed as a prototype to explore digital attendance validati
 
 ### Prerequisites
 - [XAMPP](https://www.apachefriends.org/) (Apache + MySQL + PHP)
-- Web browser (Chrome, Edge, etc.)
+- Web browser (Chrome, Edge, Brave, etc.)
 - Git (optional, for cloning)
 
 ### Steps
 ```
 # 1. Clone the repository
 git clone https://github.com/yourusername/HK-DTR-SYSTEM.git
+or download the htdocs FILE called (#HKTESTING) and the (#hk_dtr_system.sql) file
 
 # 2. Move project folder to htdocs
 C:\xampp\htdocs\HK-DTR-SYSTEM
@@ -48,13 +49,13 @@ Depending on your role:
 
 **Students**: Time in/out at the duty site.
 
-**Teachers/Admins**: Monitor attendance and validate records.
+**Teachers/Admins**: Request Facilitators, Monitor attendance, and validate records.
 
-**Admins** can add, edit, or remove users and view summary reports.
+**Admins** can add, edit, or remove users and accept requests.
 
 ## -> Technologies Used
 
-**Frontend**: HTML, CSS, JavaScript
+**Frontend**: HTML, TailwindCSS, JavaScript
 **Backend**: PHP
 **Database**: MySQL
 **Server**: Apache (via XAMPP)
