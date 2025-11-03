@@ -28,7 +28,7 @@ This project was developed as a prototype to explore digital attendance validati
 ```
 # 1. Clone the repository
 git clone https://github.com/yourusername/HK-DTR-SYSTEM.git
-or download the htdocs FILE called (#HKTESTING) and the (#hk_dtr_system.sql) file
+or download the htdocs FILE called (HKTESTING) and the (hk_dtr_system.sql) file
 
 # 2. Move project folder to htdocs
 C:\xampp\htdocs\HK-DTR-SYSTEM
